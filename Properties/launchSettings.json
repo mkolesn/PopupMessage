@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PopupMessage": {
+      "commandName": "Project",
+      "commandLineArgs": "6000 \"Hello from PopupMessage\""
+    }
+  }
+}
